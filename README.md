@@ -4,9 +4,15 @@
 * Lenguaje HTML
 * Linea de profundizacion II - UCundinamarca 
 "
-### Uso de Etiquetas
+### Uso de Etiquetas 
 
 * table
 * tr
 * th
-* td"
+* td
+* colspan
+
+### Etiquetas mas distinguidas
+
+* <thead>
+* <tbody>
