@@ -1,2 +1,12 @@
-# Tablas-en-HTML
-Tablas 👩‍💻 en HTML a partir de la etiqueta &lt;table> 🌟 | Linea de profundizacion II - UCundinamarca
+### Tablas-en-HTML
+
+* Uso de Tablas
+* Lenguaje HTML
+* Linea de profundizacion II - UCundinamarca 
+
+### Uso de Etiquetas
+
+* table
+* tr
+* th
+* td
