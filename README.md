@@ -14,6 +14,6 @@
 
 ### Etiquetas mas distinguidas
 
-* thead"
+* thead
 * tbody
 * tfoot
