@@ -14,5 +14,6 @@
 
 ### Etiquetas mas distinguidas
 
-* "<thead>"
-* "<tbody>"
+* thead"
+* tbody
+* tfoot
